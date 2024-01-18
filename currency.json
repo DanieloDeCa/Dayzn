@@ -1,0 +1,212 @@
+{
+    "478082951398293515": {
+        "wallet": 25702562791,
+        "kick": 0,
+        "bank": 0,
+        "multiplier": 100,
+        "bitcoin": 10,
+        "eth": 100001,
+        "xmr": 999,
+        "bag": [
+            {
+                "item": "oil",
+                "amount": 2,
+                "icon": ":oil:"
+            },
+            {
+                "item": "bank",
+                "amount": 1,
+                "icon": ":bank:"
+            },
+            {
+                "item": "exotic mansion",
+                "amount": 5
+            },
+            {
+                "item": "house",
+                "amount": 101
+            },
+            {
+                "item": "meth",
+                "amount": 0,
+                "icon": "<:meth:1110308744065187932>",
+                "purity": 100
+            },
+            {
+                "item": "methlab",
+                "amount": 1,
+                "icon": "<:methlab:1110950706254467175>"
+            },
+            {
+                "item": "pseudoephedrine",
+                "amount": 1987,
+                "icon": "<:Pseudoephedrine:1110938350405292193>"
+            },
+            {
+                "item": "redphosphorus",
+                "amount": 88,
+                "icon": "<:RedPhosphorus:1110940323548500008>"
+            },
+            {
+                "item": "hydriodicacid",
+                "amount": 88,
+                "icon": "<:hydriodicacid:1110944194362609725>"
+            },
+            {
+                "item": "sodiumhydroxide",
+                "amount": 88,
+                "icon": "<:SodiumHydroxide:1110943550432104530>"
+            },
+            {
+                "item": "hydrogenchloride",
+                "amount": -11,
+                "icon": "<:HydrogenChloride:1110942998474264647>"
+            },
+            {
+                "item": "meth lab",
+                "amount": 1,
+                "icon": "<:methlab:1110950706254467175>"
+            },
+            {
+                "item": "red phosphorus",
+                "amount": 999,
+                "icon": "<:RedPhosphorus:1110940323548500008>"
+            },
+            {
+                "item": "sodium hydroxide",
+                "amount": 999,
+                "icon": "<:SodiumHydroxide:1110943550432104530>"
+            },
+            {
+                "item": "hydriodic acid",
+                "amount": 999,
+                "icon": "<:hydriodicacid:1110944194362609725>"
+            },
+            {
+                "item": "hydrogen chloride",
+                "amount": 999,
+                "icon": "<:HydrogenChloride:1110942998474264647>"
+            }
+        ],
+        "description": "",
+        "badge": ":coin::house:<:Binance:1110235474297106532>",
+        "cryptowallet": "yes"
+    },
+    "788074530006368276": {
+        "wallet": 6534135000,
+        "kick": 0,
+        "bank": 0,
+        "multiplier": 1,
+        "bitcoin": 14800,
+        "eth": 0,
+        "xmr": 0,
+        "bag": [
+            {
+                "item": "stone moyai",
+                "amount": 1,
+                "icon": ":moyai:"
+            }
+        ],
+        "description": "",
+        "badge": ":coin:",
+        "cryptowallet": "no"
+    },
+    "727444193471103027": {
+        "wallet": 26311998870797800,
+        "kick": 0,
+        "bank": 0,
+        "multiplier": 100,
+        "bitcoin": 0,
+        "eth": 0,
+        "xmr": 0,
+        "bag": [
+            {
+                "item": "bank",
+                "amount": 1,
+                "icon": ":bank:"
+            },
+            {
+                "item": "methlab",
+                "amount": 2,
+                "icon": "<:methlab:1110950706254467175>"
+            },
+            {
+                "item": "pseudoephedrine",
+                "amount": 2099,
+                "icon": "<:Pseudoephedrine:1110938350405292193>"
+            },
+            {
+                "item": "house",
+                "amount": 12890,
+                "icon": ":house:"
+            },
+            {
+                "item": "redphosphorus",
+                "amount": 999,
+                "icon": "<:RedPhosphorus:1110940323548500008>"
+            },
+            {
+                "item": "sodiumhydroxide",
+                "amount": 999,
+                "icon": "<:SodiumHydroxide:1110943550432104530>"
+            },
+            {
+                "item": "hydrogenchloride",
+                "amount": 0,
+                "icon": "<:HydrogenChloride:1110942998474264647>"
+            },
+            {
+                "item": "hydriodicacid",
+                "amount": 0,
+                "icon": "<:hydriodicacid:1110944194362609725>"
+            },
+            {
+                "item": "meth",
+                "amount": 10,
+                "icon": "<:meth:1110538413360295986>"
+            }
+        ],
+        "description": "",
+        "badge": "<:Binance:1110235474297106532>:coin:",
+        "cryptowallet": "yes"
+    },
+    "810893557300723722": {
+        "wallet": 695199980580,
+        "kick": 0,
+        "bank": 0,
+        "multiplier": 1,
+        "bitcoin": 0,
+        "eth": 0,
+        "xmr": 0,
+        "bag": "",
+        "description": "",
+        "badge": "",
+        "cryptowallet": "no"
+    },
+    "1093406970393931847": {
+        "wallet": 0,
+        "kick": 0,
+        "bank": 0,
+        "multiplier": 1,
+        "bitcoin": 0,
+        "eth": 0,
+        "xmr": 0,
+        "bag": "",
+        "description": "",
+        "badge": "",
+        "cryptowallet": "no"
+    },
+    "953690887408451604": {
+        "wallet": 0,
+        "kick": 0,
+        "bank": 0,
+        "multiplier": 1,
+        "bitcoin": 0,
+        "eth": 0,
+        "xmr": 0,
+        "bag": "",
+        "description": "",
+        "badge": "",
+        "cryptowallet": "no"
+    }
+}
